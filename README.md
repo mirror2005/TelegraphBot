@@ -98,9 +98,9 @@ Upload one of the below supported media type to Telegra.ph
 
 ## Support
 
-Channel :- [@StarkBots](https://t.me/StarkBots)
+Channel :- [@StarkBots](https://t.me/jetbots)
 
-Group Chat :- [@StarkBotsChat](https://t.me/StarkBotsChat)
+Group Chat :- [@StarkBotsChat](https://t.me/jetbots_support)
 
 ## :)
 
