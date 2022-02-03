@@ -1,4 +1,4 @@
-# Telegraph [@StarkTelegraphBot](https://t.me/StarkTelegraphBot)
+# Telegraph [@StarkTelegraphBot](https://t.me/TelegrahUploader_jetbot)
 
 > A star ⭐ from you means a lot to us !
 
@@ -12,7 +12,7 @@ Telegram bot to upload media to telegra.ph
 
 ### Deploy to Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/StarkBotsIndustries/TelegraphBot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/mirror2005/TelegraphBot)
 
 1. Tap on above button and fill `API_ID`, `API_HASH`, `BOT_TOKEN`.
 2. Then tap "Deploy App" below it. Wait till deploying is complete (will take atmost 2 minutes).
