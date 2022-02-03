@@ -1,4 +1,4 @@
-# Telegraph [@StarkTelegraphBot](https://t.me/TelegrahUploader_jetbot)
+# Telegraph [@TelegraphUploader-jetbot](https://t.me/TelegrahUploader_jetbot)
 
 > A star ⭐ from you means a lot to us !
 
